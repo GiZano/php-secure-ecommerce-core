@@ -88,5 +88,5 @@ cd php-secure-ecommerce-core
 
 <br><br>
 <div align="center">
-Made with ❤️ by Giovanni Zanotti
+Made with ❤️ by GiZano
 </div>
