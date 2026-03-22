@@ -32,7 +32,7 @@ The application follows a structured **MVC (Model-View-Controller)** approach, s
 
 The repository is organized following an MVC pattern:
 
-"""text
+```text
 /
 ├── index.php                 # Main entry point and initialization
 ├── controller/               # Routing and input handling
@@ -46,7 +46,7 @@ The repository is organized following an MVC pattern:
 │   └── ecommerce_db.sql      # Database schema and mock data
 └── view/                     # User Interface
     └── home_view.php         # Main interactive dashboard (Bootstrap)
-"""
+```
 
 ---
 
@@ -66,10 +66,10 @@ The relational database (`negozio_online`) consists of 4 main tables handling th
 ## 🚀 Setup & Installation
 
 **1. Clone the repository:**
-"""bash
+```bash
 git clone https://github.com/GiZano/php-secure-ecommerce-core.git
 cd php-secure-ecommerce-core
-"""
+```
 
 **2. Database Setup:**
 * Open your MySQL management tool (e.g., phpMyAdmin).
