@@ -63,30 +63,7 @@ The relational database (`negozio_online`) consists of 4 main tables handling th
 
 ---
 
-## 🚀 Setup & Installation
-
-**1. Clone the repository:**
-```bash
-git clone https://github.com/GiZano/php-secure-ecommerce-core.git
-cd php-secure-ecommerce-core
-```
-
-**2. Database Setup:**
-* Open your MySQL management tool (e.g., phpMyAdmin).
-* Import the provided SQL script: `model/ecommerce_db.sql`.
-* This will automatically create the `5h_26_negozio_online` database and populate it with test data.
-
-**3. Configuration:**
-* Open `model/db_config.php`.
-* Verify the connection parameters (`DB_HOST`, `DB_USER`, `DB_PASS`, `DB_PORT`) match your local environment.
-
-**4. Run the Application:**
-* Serve the project directory using a local web server like Apache (XAMPP/MAMP).
-* Navigate to `http://localhost/php-secure-ecommerce-core/index.php` in your browser.
-
----
-
 <br><br>
 <div align="center">
-Made with ❤️ by GiZano
+Made with ❤️ by Giovanni Zanotti
 </div>

@@ -1,6 +1,6 @@
 <?php
 
-    echo '<div align=center class="container w-25">
+    echo '<div align=center class="container w-25 mt-5">
           <h2 class="mb-5">Update Product Price</h2>
             <form action="" method="POST" class="mb-5">
                 <div class="d-flex flex-row justify-content-between">

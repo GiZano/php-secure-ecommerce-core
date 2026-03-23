@@ -11,10 +11,12 @@
                     <label for="user_id">User ID: </label>
                     <input type="number" name="user_id" step="1" placeholder="1" required>
                 </div>
+                <br><br>
                 <div class="d-flex flex-row justify-content-between">
                     <label for="products_id">Products ID: </label>
                     <input type="text" name="products_id" placeholder="(1,2,3,...,n" required>
                 </div>
+                <br><br>
                 <div class="d-flex flex-row justify-content-between">
                     <label for="products_id">Amounts: </label>
                     <input type="text" name="amounts" placeholder="(1,2,3,...,n" required>
