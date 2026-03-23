@@ -3,7 +3,7 @@
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
     define('DB_PASS', '');
-    define('DB_NAME', '5h_26_negozio_online');
+    define('DB_NAME', 'secure_ecommerce');
     define('DB_PORT', 3306);
 
     function getConnection(){
